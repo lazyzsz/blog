@@ -1,0 +1,21 @@
+{
+    "name": "zhengsize/blog",
+    "description": "this is zhengsize test bag",
+    "type": "1",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "zhengsize\\": "src/zhengsize"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhengsize",
+            "email": "1125106511@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
